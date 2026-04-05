@@ -1,0 +1,8 @@
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/TrigPlotter.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/PlotTests.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/TrigPlotter_autogen_timestamp_deps.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/TrigPlotter_autogen.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/PlotTests_autogen_timestamp_deps.dir
+/Users/h/pz_2/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/PlotTests_autogen.dir
