@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-778949c984eb5514ed13.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "up_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "up_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-up_1-Debug-b509cec516edc238185e.json",
+					"name" : "up_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "up_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-up_1_autogen-Debug-4ce2be623503c0b19553.json",
+					"name" : "up_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "up_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-up_1_autogen_timestamp_deps-Debug-6cc5e10e12b76febe2f4.json",
+					"name" : "up_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/h/up_1/build/Qt_6_10_2_for_macOS-Debug",
+		"source" : "/Users/h/up_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
