@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7359ce0b6d026e50992c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exammmmm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exammmmm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exammmmm-Debug-d0f7611c0f6693c4c853.json",
+					"name" : "exammmmm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exammmmm_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exammmmm_autogen-Debug-2a45f23947dcdbebba85.json",
+					"name" : "exammmmm_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exammmmm_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exammmmm_autogen_timestamp_deps-Debug-0ff990a36795e881fd57.json",
+					"name" : "exammmmm_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/h/exammmmm/build/Qt_6_10_2_for_macOS-Debug",
+		"source" : "/Users/h/exammmmm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
